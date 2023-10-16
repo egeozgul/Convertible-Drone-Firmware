@@ -7,8 +7,8 @@
 - **PID Precision**: Fine-tuned Proportional-Integral-Derivative control for razor-sharp responsiveness and flight accuracy.
 
 <p align="center">
-    <img src="m6.webp" width="50%" height="50%">
-    <img src="m7.webp" width="50%" height="50%">
+    <img src="m6.webp" width="70%" height="50%">
+    <img src="m7.webp" width="70%" height="50%">
 </p>
 
 ## 📚 **Table of Contents**
