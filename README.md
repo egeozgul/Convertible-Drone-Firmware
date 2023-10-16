@@ -1,7 +1,5 @@
 # 🚁 **Quadcopter Convertable Flight Controller** 🚁
 
-> _"Soaring into the future of aerial dynamics. Experience stability, precision, and control like never before."_
-
 ## 🌟 **Features**
 
 - **Advanced Gyroscopic Processing**: Harnessing the power of the MPU6050 sensor for unparalleled flight stability.
